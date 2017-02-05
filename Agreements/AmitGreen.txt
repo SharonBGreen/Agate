@@ -3,13 +3,19 @@ Amit Green agrees to use MIT license for all his contributions.
 This means that everyone has the right to use the contributions for any reason whatsoever, including making a profit:
 
     o  Without giving anything to Amit Green in return;
-    o  And also, that once contributed, the contribution is permenant & cannot be undone.
+    o  And also, that once contributed, the contribution is permenant & cannot
+       be undone.
     
-This agreement is dated 2017-01-22.
+This agreement is dated 2017-02-25 and applies to the following projects:
 
-Signed electronically:  Amit Green
+	GemPython/agate
+	GemPython/beryl
+	GemPython/gem
+	GemPython/silver
 
-===================================================================================================================
+Signed electronically (and committed with a GPG key):  Amit Green
+
+================================================================================
 
 Here is a copy of the MIT license that Amit Green is agreeing to:
 
